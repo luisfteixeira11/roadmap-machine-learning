@@ -14,10 +14,13 @@ yarn-error.log
 *.swo
 *~
 
-# OS
+# Sistema Operacional
 .DS_Store
 Thumbs.db
 
-# Environment
+# Env
 .env
 .env.local
+
+# Dist
+dist/

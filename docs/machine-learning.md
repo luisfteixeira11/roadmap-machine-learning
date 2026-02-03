@@ -2,6 +2,8 @@
 # Tópicos de Machine Learning
 Para mergulhar de fato no Aprendizado de Máquina á necessário saber de que forma as máquinas podem aprender
 
+## Tabela do Roadmap 
+
 | Tópico | Descrição | Livro | Playlist | Página web |
 |--------|-----------|----------|------|--------|
 | **Aprendizado Supervisionado** | Classificação, regressão... | em breve |
@@ -12,4 +14,6 @@ Para mergulhar de fato no Aprendizado de Máquina á necessário saber de que fo
 | **Aprendizado Profundo (Deep Learning)** | em breve | em breve |
 | **Avalicação de Modelo de aprendizado de máquina** | Mede o quão bem o modelo consegue generalizar para dados não vistos, com métricas específicas para cada tipo de modelo. | em breve |
 | **Redes neurais** | em breve | em breve |
-| **Bibliotecas Python para ML** | Scikit-learn, PyTorch, OpenCV... | em breve |
+| **Bibliotecas Python para ML** | Scikit-learn, PyTorch, OpenCV, XGBoost... | em breve |
+
+

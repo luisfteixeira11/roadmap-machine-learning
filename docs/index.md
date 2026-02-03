@@ -15,11 +15,11 @@ hero:
       link: https://timevisaoupe.github.io/
 
 features:
-  - title: Vale a pena?
+  - title: Vale a pena entrar na área?
     details: Machine Learning é uma das áreas mais valorizadas e em alta demanda atualmente devido à ascensão da Inteligência Artificial, além de que sua aplicação prática pode gerar grande impacto em diversos setores. 
   - title: Como começar?
     details: No botão "Roadmap" acima possui o roteiro para você se inspirar, buscar conteúdos para aprender e até começar do zero na área de Machine Learning.
   - title: Tópicos abordados
-    details: Serão abordados tópicos como matemática, programação, dados, até alguns tópicos de Machine Learning
+    details: Serão abordados tópicos como Matemática, Programação, Dados, até alguns tópicos de Machine Learning
 ---
 
