@@ -12,8 +12,8 @@ Para mergulhar de fato no Aprendizado de Máquina á necessário saber de que fo
 | **Aprendizado Semissupervisionado** | Pseudo-rotulagem | em breve |
 | **Aprendizado Autossupervisionado** | É a base da maioria dos modelos generativos de linguagem e de visão computacional atuais | em breve |
 | **Aprendizado Profundo (Deep Learning)** | em breve | em breve |
-| **Avalicação de Modelo de aprendizado de máquina** | Mede o quão bem o modelo consegue generalizar para dados não vistos, com métricas específicas para cada tipo de modelo. | em breve |
 | **Redes neurais** | em breve | em breve |
+| **Avaliação de Modelo de aprendizado de máquina** | Mede o quão bem o modelo consegue generalizar para dados não vistos, com métricas específicas para cada tipo de modelo. | em breve |
 | **Bibliotecas Python para ML** | Scikit-learn, PyTorch, OpenCV, XGBoost... | em breve |
 
 
