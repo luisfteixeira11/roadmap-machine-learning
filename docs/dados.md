@@ -18,7 +18,7 @@ Na área de Aprendizado de Máquina, o profissional deve saber que o output do m
 A seguir vou sugerir algumas bibliotecas da linguagem Pyhon para estudo para lidar com os dados para a área de ML.
 
 **1. Manipulação de dados:**
-- [Pandas](https://pandas.pydata.org/), a biblioteca fundamental para manipular os dados, utilizando DataFrames, facilitando a forma de lidar com tabelas, aquivos '.csv'...
+- [Pandas](https://pandas.pydata.org/), a biblioteca fundamental para manipular os dados, utilizando DataFrames, facilitando a forma de lidar com tabelas, aquivos '.csv'... [Playlist muito boa do Hashtag Programação](https://www.youtube.com/playlist?list=PLpdAy0tYrnKwBTr4Ouo3LBeT6ZXgOgi7h)
 - [Numpy](https://numpy.org/), a base de todas as bibliotecas de Python atualmente, essencial pra manipulação de arrays, matrizes e até operações matemáticas.
 - [Polars](https://pola.rs/), uma versão alternativa ao Pandas, oferece DataFrames de alta performance, capaz de manipular dados muito rápidamente. [Um tutorial rápido do Chá con Tech.](https://www.youtube.com/watch?v=NEeo262jMao)
 
