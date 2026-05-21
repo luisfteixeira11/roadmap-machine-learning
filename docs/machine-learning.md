@@ -40,27 +40,15 @@ Seguem materiais que podem ser úteis:
 - [Página da IBM sobre aprendizado não supervisionado.](https://www.ibm.com/br-pt/think/topics/unsupervised-learning#2014952965)
 - [Vídeo Hashtag Programação sobre aprendizado não supervisionado e teórico sobre algoritmo K-means.](https://www.youtube.com/watch?v=q05qbU8FYKU&pp=ygUhYXByZW5kaXphZG8gZSBuw6NvIHN1cGVydmlzaW9uYWRv)
 - [Vídeo Hashtag Programação de utilização do K-means.](https://www.youtube.com/watch?v=3mvtYH95LCw&pp=ygURYWxnb3JpdG1vIGsgbWVhbnPSBwkJrgoBhyohjO8%3D)
-- [Vídeo IA Expert Academy DBSCAN](https://youtu.be/Lpd6HUtz580?si=JG7VFZ7-_kGW3Kgy)
-- [Vídeo IA Expert Academy DBSCAN (prática)](https://youtu.be/VJGraVClYGA?si=q4Sp70tWPcLfR0dM)
-- [Vídeo Universo Discreto sobre Clusterização Hieráquica](https://www.youtube.com/watch?v=I-NSH_-Vm4g&pp=ygUmYWxnb3JpdG1vIGNsdXN0ZXJpemHDp8OjbyBoaWVyw6FycXVpY2E%3D)
-- #falta os de regra de associação e etc
+- [Vídeo IA Expert Academy DBSCAN.](https://youtu.be/Lpd6HUtz580?si=JG7VFZ7-_kGW3Kgy)
+- [Vídeo IA Expert Academy DBSCAN (prática).](https://youtu.be/VJGraVClYGA?si=q4Sp70tWPcLfR0dM)
+- [Vídeo Universo Discreto sobre Clusterização Hieráquica.](https://www.youtube.com/watch?v=I-NSH_-Vm4g&pp=ygUmYWxnb3JpdG1vIGNsdXN0ZXJpemHDp8OjbyBoaWVyw6FycXVpY2E%3D)
+- [Vídeo Universo Discreto sobre Regras de Associação e Algoritmo Apriori.](https://youtu.be/YGEYty0xYc0?si=2ZfJY4--TUGcpVd8)
+- [Vídeo Data Review sobre Redução de Dimensionalidade.](https://youtu.be/x68CrD6AZhY?si=imXg1DOSNXKV1hO7)
+- [Artigo do Medium sobre Regra de Associação.](https://daniel-s-amador.medium.com/regras-de-associa%C3%A7%C3%A3o-b02bb9ce6ea3)
+- [Página IBM sobre Detecção de Anomalias.](https://www.ibm.com/br-pt/think/topics/machine-learning-for-anomaly-detection)
 
 
-## Aprendizado Autossupervisionado
-
-O Aprendizado Autossupervisionado é um tipo de aprendizado que aprende de acordo com dados não rótulados, assim, buscando preencher os dados não rótulados com a geração de rótulos de acordo com os dados de entrada. Sendo como uma ponte entre o paradigma não supervisionado e o supervisionado para treinar grandes volumes de dados.
-
-Possui aplicações em diversas áreas como:
-
-- Processamento de Linguagem Natural(NLP): Previsão de palavras seguintes ou de lacunas em palavras (Ex.: Aprendizado -> Aprendizado Autossupervisionado, Apren -> Aprendizado);
-
-- Visão Computacional: Processo de girar uma imagem para uma angulação correta;
-
-- Processamento de Vídeo: Previsão de um próximo frame de um vídeo.
-
-Seguem materiais que podem ser úteis:
-
--
 
 ## Aprendizado Semissupervisionado
 
@@ -76,7 +64,11 @@ Possui aplicações em áreas como:
 
 Seguem materiais que podem ser úteis:
 
--
+- [Página IBM sobre Aprendizado Semissupervisionado.](https://www.ibm.com/br-pt/think/topics/semi-supervised-learning)
+- [Página Oracle sobre Aprendizado Semissupervisionado.](https://www.oracle.com/br/artificial-intelligence/machine-learning/semi-supervised-learning/)
+- [Artigo Medium com uma introdução geral sobre o tipo de aprendizado semissupervisionado.](https://medium.com/datalab-log/uma-introdu%C3%A7%C3%A3o-ao-aprendizado-semissupervisionado-ssl-9f2354314796)
+
+
 
 ## Aprendizado por Reforço
 
@@ -92,7 +84,10 @@ Suas aplicações mais frequentes são:
 
 Seguem materiais que podem ser úteis:
 
--
+- [Artigo no Medium sobre o Aprendizado por Reforço](https://medium.com/datarisk-io/conceitos-para-enteder-reinforcement-learning-2b04d68bf4f9)
+- [Artigo do Medium de Aprendizado por Reforço (possui uma série de artigos sobre)](https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-1-introdu%C3%A7%C3%A3o-7382ebb641ab)
+- [Repositório Turing USP com um guia sobre Aprendizado por Reforço](https://github.com/turing-usp/Aprendizado-por-Reforco)
+
 
 
 ## Redes Neurais
@@ -109,7 +104,10 @@ Suas aplicações são diversas:
 
 Seguem materiais que podem ser úteis:
 
--
+- [Site USP de Redes Neurais e MLP](https://sites.icmc.usp.br/andre/research/neural/)
+- [Artigo do Medium com uma Introdução a redes neurais com Keras](https://medium.com/analytics-vidhya/simplest-introduction-to-neural-networks-in-keras-c6ce8d666461)
+
+
 
 ## Aprendizado Profundo (Deep Learning)
 
@@ -136,7 +134,29 @@ Possui diversas aplicações em várias áreas como:
 
 Seguem materiais que podem ser úteis:
 
--
+- [Página da IBM sobre o Aprendizado Profundo](https://www.ibm.com/br-pt/think/topics/deep-learning)
+
+
+
+## Aprendizado Autossupervisionado
+
+O Aprendizado Autossupervisionado é um tipo de aprendizado que aprende de acordo com dados não rótulados, assim, buscando preencher os dados não rótulados com a geração de rótulos de acordo com os dados de entrada. Sendo como uma ponte entre o paradigma não supervisionado e o supervisionado para treinar grandes volumes de dados.
+
+Possui aplicações em diversas áreas como:
+
+- Processamento de Linguagem Natural(NLP): Previsão de palavras seguintes ou de lacunas em palavras (Ex.: Aprendizado -> Aprendizado Autossupervisionado, Apren -> Aprendizado);
+
+- Visão Computacional: Processo de girar uma imagem para uma angulação correta;
+
+- Processamento de Vídeo: Previsão de um próximo frame de um vídeo.
+
+Seguem materiais que podem ser úteis:
+
+- [Página da IBM sobre o Aprendizado Autossupervisionado](https://www.ibm.com/br-pt/think/topics/self-supervised-learning)
+- [Página Geek for Geeks sobre Aprendizado Autossupervisionado (Inglês)](https://www.geeksforgeeks.org/machine-learning/self-supervised-learning-ssl/)
+- [Página Meta sobre Aprendizado Autossupervisionado (Inglês)](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+
+
 
 ## Aprendizado Federado
 
@@ -152,7 +172,7 @@ Possui aplicações em áreas como:
 
 Seguem materiais que podem ser úteis:
 
--
+- [Página Google Cloud sobre Aprendizado Federado](https://cloud.google.com/discover/what-is-federated-learning?hl=pt-BR)
 
 ## Avaliação de um modelo de ML
 
@@ -160,4 +180,29 @@ A avaliação de um modelo de Machine learning mede o quão bem o modelo consegu
 
 Seguem materiais que podem ser úteis:
 
--
+- [Artigo Medium com as principais métricas de avaliação de modelos](https://medium.com/data-hackers/principais-m%C3%A9tricas-de-classifica%C3%A7%C3%A3o-de-modelos-em-machine-learning-94eeb4b40ea9)
+
+
+
+# Bibliotecas Python para Machine Learning
+
+
+- [Scikit-learn](https://scikit-learn.org/stable/#), bibilioteca mais popular de Machine Learning, possui os Algoritmos "Clássicos", abrange o Aprendizado Supervisionado e o não Supervisionado, até alguns algoritmos de redes neurais.
+
+- [XGboost](https://xgboost.ai/), uma biblioteca de Gradient Boosting, sendo reconhecida por alta performance e eficiência computacional, bastante usada em competições de ciência de dados no [kaggle](https://www.kaggle.com/).
+
+- [LightGBM](https://lightgbm.readthedocs.io/en/stable/#), outro framework de Gradient Boost de alto desempenho, desenvolvido pela Microsoft, otimiza Árvores de Regressão para Classificação, Regressão e Ranqueamento, também amplamente usada no kaggle.
+
+- [CatBoost](https://catboost.ai/), desenvolvida pela Yandex, é mais uma biblioteca de Gradient Boost para Árvores de Decisão, mas com a vantagem de não precisar lidar com features categóricas.
+
+- [TensorFlow](https://www.tensorflow.org/?hl=pt-br), plataforma open source desenvolvida pelo Google, utilizada pra Machine Learning e Deep Learning, se destaca pela sua aplicabilidade em uma ampla variedade de tarefas.
+
+- [Pytorch](https://pytorch.org/), um framework de Machine Learning desenvolvido pela Meta, bastante usado para aplicações de Inteligência Artificial como Visão Computacional e PLN.
+
+- [Keras] (https://keras.io/), é uma API de alto nível focada na facilidade da prototipação de Redes Neurais, sendo assim uma API de uso mais facilitado para criação de modelos, com a possibilidade de treinar modelos em outras bibliotecas como Pytorch e TensorFlow.
+
+- [OpenCV](https://opencv.org/), é a maior biblioteca de Visão Computacional e processamento de imagens, oferecendo inúmeros algoritmos em sua documentação.
+
+- [Stable Baselines](https://stable-baselines3.readthedocs.io/en/master/), biblioteca focada na implementação de Reinforcement Learning.
+
+- [Natural Language Toolkit](https://www.nltk.org/), é uma das principais bibliotecas pra Processamento de Linguagem Natural.

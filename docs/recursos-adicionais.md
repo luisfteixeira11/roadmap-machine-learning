@@ -11,5 +11,6 @@
  - [Discussão Kaggle sobre modelos híbridos](https://www.kaggle.com/discussions/general/545962).
  - [Revista focada em pesquisa em Aprendizado de máquina](https://www.jmlr.org/).
  - [Playlist Andrew Ng - Machine Learning Specialization (do Youtube)](https://youtu.be/vStJoetOxJg?si=QqPouxckIPacO8ni)
+ - [Playlist Machine Learning - IMPA - Paulo Orenstein](https://youtube.com/playlist?list=PLo4jXE-LdDTRLGDL59SkkLPBHVmYphuqI&si=dy2DYmtZ8izWG94O)
 
 vou adicionar blogs, sites, livros, algumas coisas de Python por aqui em breve.
