@@ -27,6 +27,7 @@ export default defineConfig({
           { text: 'Programação fundamental', link: '/programacao-fundamental' },
           { text: 'Dados para Machine Learning', link: '/dados' },
           { text: 'Tópicos de Machine Learning', link: '/machine-learning' },
+          { text: 'Tópicos de Deep Learning', link: '/deep-learning'},
           { text: 'Recursos Adicionais', link: '/recursos-adicionais' },
           { text: 'Finalização', link: '/finalizacao' }
         ]
